@@ -18,13 +18,22 @@ const About = () => {
           <a
             href="https://www.linkedin.com/in/rishabh-mehta-7b395618b/"
             target="_blank"
+            rel=" noreferrer"
           >
             <AiFillLinkedin className="text-white  text-4xl hover:text-[blue]  "></AiFillLinkedin>
           </a>
-          <a href="https://github.com/rishabhm05" target="_blank">
+          <a
+            href="https://github.com/rishabhm05"
+            target="_blank"
+            rel=" noreferrer"
+          >
             <AiFillGithub className="text-white  text-4xl hover:text-[blue]"></AiFillGithub>
           </a>
-          <a href="mailto:mehtarishabh60@gmail.com" target="_blank">
+          <a
+            href="mailto:mehtarishabh60@gmail.com"
+            target="_blank"
+            rel=" noreferrer"
+          >
             <AiOutlineMail className="text-white  text-4xl hover:text-[blue]"></AiOutlineMail>
           </a>
         </div>

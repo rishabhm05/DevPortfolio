@@ -23,7 +23,11 @@ const Projects = () => {
               </p>
 
               <div className="flex items-center gap-8">
-                <a href="https://netflixclone-ee81f.web.app/" target="_blank">
+                <a
+                  href="https://netflixclone-ee81f.web.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className=" bg-[transparent] group flex items-center border-white border-2 px-4 py-2 rounded text-white my-6 hover:bg-pink-500 hover:border-pink-500">
                     View Live
                   </button>
@@ -31,6 +35,7 @@ const Projects = () => {
                 <a
                   href="https://github.com/rishabhm05/NetflixClone"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <button className=" bg-[transparent] group flex items-center border-white border-2 px-4 py-2 rounded text-white my-6 hover:bg-pink-500 hover:border-pink-500">
                     View Code
@@ -55,6 +60,7 @@ const Projects = () => {
                 <a
                   href="https://cryptoinformation1.netlify.app/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <button className=" bg-[transparent] group flex items-center border-white border-2 px-4 py-2 rounded text-white my-6 hover:bg-pink-500 hover:border-pink-500">
                     View Live
@@ -63,6 +69,7 @@ const Projects = () => {
                 <a
                   href="https://github.com/rishabhm05/CryptoCurrencyTracker"
                   target="_blank"
+                  rel=" noreferrer"
                 >
                   {" "}
                   <button className=" bg-[transparent] group flex items-center border-white border-2 px-4 py-2 rounded text-white my-6 hover:bg-pink-500 hover:border-pink-500">
@@ -111,6 +118,7 @@ const Projects = () => {
                 <a
                   href="https://rishabhshoppingcart.netlify.app/"
                   target="_blank"
+                  rel=" noreferrer"
                 >
                   <button className=" bg-[transparent] group flex items-center border-white border-2 px-4 py-2 rounded text-white my-6 hover:bg-pink-500 hover:border-pink-500">
                     View Live
@@ -119,6 +127,7 @@ const Projects = () => {
                 <a
                   href="https://github.com/rishabhm05/ShoppingCart"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   {" "}
                   <button className=" bg-[transparent] group flex items-center border-white border-2 px-4 py-2 rounded text-white my-6 hover:bg-pink-500 hover:border-pink-500">
