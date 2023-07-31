@@ -17,14 +17,7 @@ const Skills = () => {
             ></img>
             <p className="text-center text-white my-4 mr-2">JAVASCRIPT</p>
           </div>
-          <div className="shadow-lg shadow-[#040c16] px-6 py-6 hover:scale-110 ease-in-out duration-300">
-            <img
-              src="/java.png "
-              className="w-20 bg-cover mx-auto"
-              alt="java"
-            ></img>
-            <p className="text-center text-white my-4 ">JAVA</p>
-          </div>
+         
           <div className="shadow-lg shadow-[#040c16] px-6 py-6 hover:scale-110 ease-in-out duration-300">
             <img
               src="/react.png "
@@ -32,6 +25,14 @@ const Skills = () => {
               alt="react"
             ></img>
             <p className="text-center text-white my-4">React JS</p>
+          </div>
+          <div className="shadow-lg shadow-[#040c16] px-6 py-6 hover:scale-110 ease-in-out duration-300">
+            <img
+              src="/java.png "
+              className="w-20 bg-cover mx-auto"
+              alt="java"
+            ></img>
+            <p className="text-center text-white my-4 ">JAVA</p>
           </div>
           <div className="shadow-lg shadow-[#040c16] px-6 py-6 hover:scale-110 ease-in-out duration-300">
             <img
